@@ -8,5 +8,5 @@
 
 # Donate
 - Paypal: https://paypal.me/xtekky
-- Crypto Wallet Adress: 0xfe404607d8Ac13926EBB366071D26c44A111F59d
+- Crypto Wallet Adress: `0xfe404607d8Ac13926EBB366071D26c44A111F59d`
 
