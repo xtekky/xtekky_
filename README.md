@@ -1,5 +1,5 @@
 # About myself
-![oie_png](https://user-images.githubusercontent.com/98614666/155200809-202e4a5d-d807-40a7-89d7-03e94d3bdb57.png)
+![164916-universe-earth-atmosphere-light-blue-x750-modified](https://user-images.githubusercontent.com/98614666/156952374-dada4659-5c65-4b3c-9488-8090d92b7535.png)
 
 - 👋 Hi, I’m @xtekky
 - 👀 I am a 16 year old programmer living in France.
