@@ -1,4 +1,4 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/xtekky.svg?style=social&label=CCXT)](https://twitter.com/xtekky)
+[![Twitter Follow](https://img.shields.io/twitter/follow/xtekky_.svg?style=social&label=xtekky_)](https://twitter.com/xtekky_)
 # About myself
 ![164916-universe-earth-atmosphere-light-blue-x75022-modified](https://user-images.githubusercontent.com/98614666/156952560-b1cea969-317a-45c0-82b4-33da0489973c.png)
 
