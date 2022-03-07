@@ -1,4 +1,4 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/xtekky_.svg?style=social&label=xtekky_)](https://twitter.com/xtekky_)                                                     ![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UC6JZx44gSD6-X_8xZoTMXUg?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/xtekky_.svg?style=social&label=xtekky_)](https://twitter.com/xtekky_)                                                     [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UC6JZx44gSD6-X_8xZoTMXUg?style=social)](https://www.youtube.com/channel/UC6JZx44gSD6-X_8xZoTMXUg)
 [![Insta](https://img.shields.io/twitter/follow/xtekky?label=Instagram&logo=instagram&logoColor=red&style=social)](https://instagram.com/xtekky)
 
 # About myself
