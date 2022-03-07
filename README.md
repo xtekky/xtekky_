@@ -1,4 +1,4 @@
-# About me
+# About myself
 ![oie_png](https://user-images.githubusercontent.com/98614666/155200809-202e4a5d-d807-40a7-89d7-03e94d3bdb57.png)
 
 - 👋 Hi, I’m @xtekky
