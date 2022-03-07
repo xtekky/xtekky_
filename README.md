@@ -11,3 +11,8 @@
 - Paypal: https://paypal.me/xtekky
 - Crypto Wallet Adress: `0xfe404607d8Ac13926EBB366071D26c44A111F59d`
 
+<hr>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtekky&&langs_count=8&layout=compact&theme=dark" alt="xtekky" height="165" width="420"/>
+</p>
+<hr>
