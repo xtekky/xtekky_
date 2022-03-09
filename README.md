@@ -9,14 +9,14 @@
 - 🌱 I'm currently working with selenium, Data analysis, Neural Networks and Deep Learning.
 - 📧 Reach me by email: zhctekky@gmail.com
 - 📫 Discord: xtekky#0000
-
-# Donate
-- Paypal: xxx
-- Crypto Wallet Adress: `0xfe404607d8Ac13926EBB366071D26c44A111F59d`
-
 # Languages
 <hr>
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtekky&&langs_count=8&layout=compact&theme=dark" alt="xtekky" height="165" width="420"/>
 </p>
 <hr>
+
+# Donate
+- Paypal: xxx
+- Crypto Wallet Adress: `0xfe404607d8Ac13926EBB366071D26c44A111F59d`
+
