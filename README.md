@@ -8,7 +8,8 @@
 - 👀 I am a 16 year old programmer living in France.
 - 📈 I mainly trade but started programming now almost half a year ago to develop my own trading AI.
 - 🌱 I'm currently working with selenium, Data analysis, Neural Networks and Deep Learning.
-- 📫 Reach me by email: zhctekky@gmail.com
+- 📧 Reach me by email: zhctekky@gmail.com
+- 📫 Discord: xtekky#0000
 
 # Donate
 - Paypal: https://paypal.me/xtekky
