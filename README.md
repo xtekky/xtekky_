@@ -4,8 +4,7 @@
 # About myself
 ![164916-universe-earth-atmosphere-light-blue-x75022-modified](https://user-images.githubusercontent.com/98614666/156952560-b1cea969-317a-45c0-82b4-33da0489973c.png)
 
-- 👋 Hi, I’m @xtekky
-- 👀 I am a 16 year old programmer living in France.
+- 👋 Hi, I’m @xtekky, a 16 year old programmer living in France.
 - 📈 I mainly trade but started programming now almost half a year ago to develop my own trading AI.
 - 🌱 I'm currently working with selenium, Data analysis, Neural Networks and Deep Learning.
 - 📧 Reach me by email: zhctekky@gmail.com
