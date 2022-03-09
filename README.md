@@ -11,7 +11,7 @@
 - 📫 Discord: xtekky#0000
 
 # Donate
-- Paypal: https://paypal.me/xtekky
+- Paypal: xxx
 - Crypto Wallet Adress: `0xfe404607d8Ac13926EBB366071D26c44A111F59d`
 
 # Languages
