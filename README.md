@@ -2,9 +2,8 @@
 [![Insta](https://img.shields.io/twitter/follow/lol_Cris?label=Instagram&logo=instagram&logoColor=red&style=social)](https://instagram.com/xtekky)
 
 # About myself
-![164916-universe-earth-atmosphere-light-blue-x75022-modified](https://user-images.githubusercontent.com/98614666/156952560-b1cea969-317a-45c0-82b4-33da0489973c.png)
+![YouTube Channel Art 2560x1440 pxlol-modified](https://user-images.githubusercontent.com/98614666/158362378-ae02ba6b-190b-41e3-ba13-00e19c892904.png)
 
-- Youtube Channel: https://www.youtube.com/channel/UC6JZx44gSD6-X_8xZoTMXUg
 - 👋 Hi, I’m @xtekky, a 16 year old programmer living in France.
 - 📈 I mainly trade but started programming now almost half a year ago to develop my own trading AI.
 - 🌱 I'm currently working with selenium, Data analysis, Neural Networks and Deep Learning.
