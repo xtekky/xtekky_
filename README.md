@@ -12,11 +12,9 @@
 - 📧 Reach me by email: zhctekky@gmail.com
 
 # Languages
-<hr>
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtekky&&langs_count=8&layout=compact&theme=dark" alt="xtekky" height="165" width="420"/>
 </p>
-<hr>
 
 # Donate
 - Paypal: xxx
