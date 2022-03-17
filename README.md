@@ -3,12 +3,14 @@
 
 # About myself
 ![YouTube Channel Art 2560x1440 pxlol-modified](https://user-images.githubusercontent.com/98614666/158362378-ae02ba6b-190b-41e3-ba13-00e19c892904.png)
-
+### DM me if you have any questions: 
+- 📫 Discord: [xtekky#9031](https://discord.gg/user/xtekky#9031)
+----
 - 👋 Hi, I’m @xtekky, a 16 year old programmer living in France.
 - 📈 I mainly trade but started programming now almost half a year ago to develop my own trading AI.
 - 🌱 I'm currently working with selenium, Data analysis, Neural Networks and Deep Learning.
 - 📧 Reach me by email: zhctekky@gmail.com
-- 📫 Discord: xtekky#0000
+
 # Languages
 <hr>
 <p align="left">
