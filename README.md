@@ -3,7 +3,7 @@
 
 # About myself
 ![YouTube Channel Art 2560x1440 pxlol-modified](https://user-images.githubusercontent.com/98614666/158362378-ae02ba6b-190b-41e3-ba13-00e19c892904.png)
-### DM me if you have any questions or want to collab, or have a decent project idea: 
+### DM me if you have any questions, want to collab or have a decent project idea: 
 - 📫 Discord: [xtekky#9031](https://discord.gg/)
 - 📲 Telegram: [t.me/xtekky](https://t.me/xtekky)
 ----
