@@ -16,10 +16,6 @@
 ## - L A N G U A G E S -
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtekky&&langs_count=8&layout=compact&theme=dark" alt="xtekky" height="165" width="420"/>
-</p>
-<a href="https://github.com/xtekky?tab=repositories">
-  <img align="left" src="https://github.com/xtekky/github-stats/blob/master/generated/overview.svg" />
-</a>
 
 ## - D O N A T E -
 - Paypal: xxx
