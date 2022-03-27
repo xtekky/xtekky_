@@ -18,6 +18,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtekky&&langs_count=8&layout=compact&theme=dark" alt="xtekky" height="165" width="420"/>
 
 ## - D O N A T E -
-- Paypal: https://www.paypal.com/paypalme/xtekky
+- Paypal: [paypal.me/xtekky](https://www.paypal.com/paypalme/xtekky)
 - Crypto Wallet Adress: `0xfe404607d8Ac13926EBB366071D26c44A111F59d`
 
