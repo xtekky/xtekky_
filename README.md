@@ -6,7 +6,7 @@
  ### - TikTok/Instagram high perforance bots - join [server](https://discord.gg/m6wdhpMV5A) or DM
 ![YouTube Channel Art 2560x1440 pxlol-modified](https://user-images.githubusercontent.com/98614666/158362378-ae02ba6b-190b-41e3-ba13-00e19c892904.png)
 ## - DM - QUESTIONS | COLLAB | PROJECT IDEA -
-- 📫 Discord: [xtekky#9031](https://discord.gg/m6wdhpMV5A)
+- 📫 Discord: [Tekky#9999](https://discord.gg/onlp)
 - 📲 Telegram: [t.me/xtekky](https://t.me/xtekky)
 ----
 - 👋 Hi, I’m @xtekky, a 16 year old programmer living in France.
