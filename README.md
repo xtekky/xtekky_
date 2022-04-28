@@ -1,9 +1,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_R1bang_.svg?style=social&label=xtekky_)](https://twitter.com/xtekky_)                                           [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCVCxigi4I9fTuIxTlM9amtA?style=social)](https://www.youtube.com/channel/UC6JZx44gSD6-X_8xZoTMXUg)
-<img src="https://komarev.com/ghpvc/?username=xtekky&color=yellow&style=flat-square" align="left" />
 ## JOIN SERVER - ALL SCRIPTS: [discord.gg/onlp](https://discord.gg/onlp)
 ![standard](https://user-images.githubusercontent.com/98614666/161384396-681b030c-0638-4147-9443-0dc6f0ff6253.gif)
- ### - TikTok/Instagram high perforance bots - join [server](https://discord.gg/m6wdhpMV5A) or DM
-![YouTube Channel Art 2560x1440 pxlol-modified](https://user-images.githubusercontent.com/98614666/158362378-ae02ba6b-190b-41e3-ba13-00e19c892904.png)
+### Why so many views ?
+![caca](https://camo.githubusercontent.com/62a3ce0af4556682fcdaaff5e2ad6213de2e9c3050b3565e0fe73a83673cc4f9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7874656b6b7926636f6c6f723d79656c6c6f77267374796c653d666c61742d737175617265)
+
 ## - DM - QUESTIONS | COLLAB | PROJECT IDEA -
 - 📫 Discord: [Waxor#9999](https://discord.gg/onlp)
 - 📲 Telegram: [t.me/xtekky](https://t.me/xtekky)
