@@ -22,7 +22,7 @@
 - Paypal: [paypal.me/xtekky](https://www.paypal.com/paypalme/xtekky)
 - Crypto Wallet Adress: `0xfe404607d8Ac13926EBB366071D26c44A111F59d`
 
- <a href="https://github.com/D4Vinci">
+ <a href="https://github.com/xtekky">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xtekky&count_private=true&show_icons=true&theme=chartreuse-dark" />
   </a>
  
