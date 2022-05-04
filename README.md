@@ -21,7 +21,6 @@
 <a href="https://github.com/xtekky">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xtekky&show_icons=true&theme=midnight-purple" />
 </a>
-<a href="https://github.com/xtekky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtekky&layout=compact&theme=midnight-purple"  alt="xtekky" height="194" width="420"/>
-</a>
 
+## ~ 𝖑𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 ~
+#### 𝖕𝖞𝖙𝖍𝖔𝖓 · 𝖏𝖘 · 𝖍𝖙𝖒𝖑 · 𝖈𝖘𝖘 · 𝖌𝖔
