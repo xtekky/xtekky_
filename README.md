@@ -13,7 +13,7 @@
 - 👋 Hi, I’m @xtekky, a 16 year old programmer living in France.
 - 📈 I mainly trade but started programming now almost half a year ago to develop my own trading AI.
 - I speak: German / French / English / spanish
-- 🌱 Libraries I'm working with:  [**Selenium**](https://www.selenium.dev/) | [**Tensorflow**](https://www.tensorflow.org/) | [**Tkinter**](https://docs.python.org/3/library/tkinter.html)
+- 🌱 Libraries I'm working with: [**Requests**](https://www.discord.gg/whaxor) | [**Selenium**](https://www.selenium.dev/) | [**Tensorflow**](https://www.tensorflow.org/)
 - 👀 Interested in:  **Botting** | **Neural Networks** | **AI** | **Deep Learning**
 - 📧 Reach me by email: zhctekky@gmail.com
 
