@@ -9,7 +9,7 @@
 </a>
 
 ## ~ 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 ~
-- 📫 Discord: [Waxor#9999](https://discord.gg/onlp)
+- 📫 Discord: [Tekky#9999](https://discord.gg/onlp)
 - 📲 Telegram: [t.me/xtekky](https://t.me/xtekky)
 
 ## ~ 𝖆𝖇𝖔𝖚𝖙 𝖒𝖊 ~ 
