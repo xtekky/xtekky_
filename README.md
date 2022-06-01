@@ -10,6 +10,7 @@
 ## ~ 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 ~
 - 📫 Discord: [Tekky#9999](https://discord.gg/onlp)
 - 📲 Telegram: [t.me/xtekky](https://t.me/xtekky)
+- 📫 Email: xtekky@protonmail.com
 
 ## ~ 𝖆𝖇𝖔𝖚𝖙 𝖒𝖊 ~ 
 - Languages: German / French / English / spanish
