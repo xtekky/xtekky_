@@ -27,7 +27,7 @@ class Attributes:
 
 	def life(self):
 		langs         = ['French', 'German', 'Spanish', 'English']
-		nationalities = self.langs.remove('French').append('Korean')
+		nationalities = self.langs.remove('French', 'English').append('Korean')
 		age           = 16
 		
 		return langs, nationalities, age
