@@ -13,11 +13,18 @@ import bitches
 class Attributes:
 	def __init__(self) -> None:
 		bitches.get('bitches')
+		
+	def contact(self):
+	    discord  = "Tekky#9999"
+	    telegram = "t.me/xtekky"
+	    proton   = "xtekky@protonmail.com"
+	    
+	    return discord, telegram, proton
 
 	def life(self):
-		self.langs         = ['French', 'German', 'Spanish', 'English']
-		self.nationalities = self.langs.remove('French').append('Korean')
-		self.age           = 16
+		langs         = ['French', 'German', 'Spanish', 'English']
+		nationalities = self.langs.remove('French').append('Korean')
+		age           = 16
 		
 		return langs, nationalities, age
 		
@@ -35,8 +42,10 @@ class Attributes:
 		discord   = ['HQ Gen', 'Raid Toolkit']
 		tiktok    = ['view bot', 'Algorithms']
 		instagram = ['Gen', 'Botting']
-		Twitch    = ['Free Gen', 'Everything u can think of']
-		Website   = ['Full TikTok API', 'Backend']
+		twitch    = ['Free Gen', 'Everything u can think of']
+		website   = ['Full TikTok API', 'Backend']
+		
+		return discord, tiktok, instagram, twitch, website
 
 ```
 
