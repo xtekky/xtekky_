@@ -35,7 +35,7 @@ class Attributes:
 	def coding(self):
 		langs = {
 			'expert':   ['python'],
-			'advanced': ['golang', 'js']
+			'learning': ['go', 'js', 'html', 'css']
 		}
 		specialities  = ['web reverse engineering', 'discord bots'. 'backend']
 		environnement = ['vscode', 'pycharm']
