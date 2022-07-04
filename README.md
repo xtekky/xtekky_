@@ -19,7 +19,7 @@ class Attributes:
 		bitches.get('bitches')
 		
 	def contact(self):
-	    discord  = "Tekky#9999"
+	    discord  = "tk#1337"
 	    telegram = "t.me/xtekky"
 	    proton   = "xtekky@protonmail.com"
 	    
