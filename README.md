@@ -56,6 +56,4 @@ class Attributes:
     <img alt="" src=https://github-readme-stats.vercel.app/api?username=xtekky&show_icons=true&theme=tokyonight>
 </p>
 
-All my projects lol
-![image](https://user-images.githubusercontent.com/98614666/180582862-0b736ca7-5a11-4e6c-950f-f586b93799ed.png)
 
