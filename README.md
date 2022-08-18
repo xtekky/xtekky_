@@ -16,22 +16,24 @@ import bitches
 class Attributes:
 	def __init__(self) -> None:
 		bitches.get('bitches')
-		
-	def contact(self):
+	
+	@staticmethod
+	def contact(self) -> tuple:
 	    discord  = "&! Tekky#1337"
 	    telegram = "t.me/xtekky"
 	    proton   = "xtekky@protonmail.com"
 	    
 	    return discord, telegram, proton
-
-	def life(self):
+	
+	@staticmethod
+	def life(self) -> tuple:
 		langs         = ['French', 'German', 'Spanish', 'English']
 		nationalities = self.langs.remove('French', 'English').append('Korean')
 		age           = 16
 		
 		return langs, nationalities, age
 		
-	def coding(self):
+	def coding(self) -> tuple:
 		langs = {
 			'expert':   ['python'],
 			'intermediate': ['go'],
@@ -41,8 +43,9 @@ class Attributes:
 		environnement = ['vscode', 'pycharm']
 		
 		return langs, specialities, environnement
-		
-	def projects(self):
+	
+	@staticmethod
+	def projects(self) -> tuple:
 		discord   = ['HQ Gen', 'Raid Toolkit']
 		tiktok    = ['view bot', 'Algorithms']
 		instagram = ['Gen', 'Botting']
