@@ -32,7 +32,8 @@ class Attributes:
 		age           = 16
 		
 		return langs, nationalities, age
-		
+	
+	@staticmethod
 	def coding(self) -> tuple:
 		langs = {
 			'expert':   ['python'],
