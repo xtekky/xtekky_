@@ -40,7 +40,7 @@ class Attributes:
 			'intermediate': ['go'],
 			'learning': ['js', 'c#']
 		}
-		specialities  = ['web reverse engineering', 'discord bots'. 'backend']
+		specialities  = ['web/app reverse engineering', 'discord bots'. 'backend']
 		environnement = ['vscode', 'pycharm']
 		
 		return langs, specialities, environnement
