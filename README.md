@@ -60,7 +60,7 @@ class Attributes:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,css,html" />
   </a>
 </p>
 
