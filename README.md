@@ -38,7 +38,7 @@ class Attributes:
 		langs = {
 			'expert':   ['python'],
 			'intermediate': ['go'],
-			'learning': ['js', 'c#']
+			'learning': ['js', 'c', 'c++', 'c#', 'asm', 'java']
 		}
 		specialities  = ['web/app reverse engineering', 'discord bots'. 'backend']
 		environnement = ['vscode', 'pycharm']
