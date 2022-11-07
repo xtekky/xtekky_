@@ -11,11 +11,9 @@
 </p>
 
 ```python
-import bitches
-
-class Attributes:
+class Attributes(Tekky):
 	def __init__(self) -> None:
-		bitches.get('bitches')
+	    pass
 	
 	@staticmethod
 	def contact(self) -> tuple:
