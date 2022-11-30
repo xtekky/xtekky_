@@ -1,5 +1,6 @@
+new discord server: https://discord.gg/4CZn3Pbt
 <!-- Hi skid <3 -->
-<h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://discord.gg/onlp">.gg/onlp</a></h2>
+<h2 align="center">Telegram <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Group -  <a href="https://t.me/onlpx">t.me/onlpx</a></h2>
 
 <!-- <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
@@ -17,7 +18,7 @@ class Attributes(Tekky):
 	
 	@staticmethod
 	def contact(self) -> tuple:
-	    discord  = "&! Tekky#1337"
+	    discord  = "tekky#2229"
 	    telegram = "t.me/xtekky"
 	    proton   = "xtekky@protonmail.com"
 	    
