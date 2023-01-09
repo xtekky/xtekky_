@@ -36,10 +36,10 @@ class Attributes(Tekky):
 	def coding(self) -> tuple:
 		langs = {
 			'expert':   ['python'],
-			'intermediate': ['go'],
-			'learning': ['js', 'c', 'c++', 'c#', 'asm', 'java']
+			'intermediate': ['go', 'js'],
+			'learning': ['c', 'c++', 'c#', 'asm', 'java']
 		}
-		specialities  = ['web/app reverse engineering', 'discord bots'. 'backend']
+		specialities  = ['web/app reverse engineering', 'fullstack', 'skidding (joke)']
 		environnement = ['vscode', 'pycharm']
 		
 		return langs, specialities, environnement
@@ -50,7 +50,7 @@ class Attributes(Tekky):
 		tiktok    = ['view bot', 'Algorithms']
 		instagram = ['Gen', 'Botting']
 		twitch    = ['Free Gen', 'Everything u can think of']
-		website   = ['Full TikTok API', 'Backend']
+		website   = ['tikstats.io', 'tikbotting.com']
 		
 		return discord, tiktok, instagram, twitch, website
 
