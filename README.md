@@ -28,7 +28,7 @@ class Attributes(Tekky):
 	def life(self) -> tuple:
 		langs         = ['French', 'German', 'Spanish', 'English']
 		nationalities = self.langs.remove('French', 'English').append('Korean')
-		age           = 16
+		age           = 17
 		
 		return langs, nationalities, age
 	
